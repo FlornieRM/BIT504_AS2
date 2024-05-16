@@ -1,4 +1,4 @@
-# BIT504_AS2
+# BIT504_AT2_Task2
 
 **Tic-Tac-Toe Game Development**
 
