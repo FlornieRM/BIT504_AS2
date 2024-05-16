@@ -8,10 +8,7 @@
 **Project Structure**
 > The code is structured across multiple Java classes, which are:
 
-> _GameBoard_: Manages the game board display.
-
-> _GameController_: Handles game rules and player moves.
-
-> _Player_: Sets up player details.
-
-> _Main_: Starts the game.
+* _GameBoard_: Manages the game board display.
+* _GameController_: Handles game rules and player moves.
+* _Player_: Sets up player details.
+* _Main_: Starts the game.
