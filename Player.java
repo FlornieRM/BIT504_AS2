@@ -1,5 +1,5 @@
 package TicTacToe;
-	// Enumeration for the players move
+	// Enumeration for the players' move
 	public enum Player 
 	{
 		Empty(" "), // Representing an empty cell
