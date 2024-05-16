@@ -1,9 +1,20 @@
 package TicTacToe;
+	// Enumeration for the players move
+	public enum Player 
+	{
+		Empty(" "), // Representing an empty cell
+		Cross("X"), // Representing player Cross's move
+		Nought("O"); // Representing player Nought's move
 
-/**
- * Enumeration for the players move
- */
+	private final String symbol;
 
-public enum Player {
-	Empty, Cross, Nought
-}
+		Player(String symbol) 
+		{
+			this.symbol = symbol;
+		}
+
+	public String getSymbol() 
+		{
+		return symbol;
+		}
+	}
